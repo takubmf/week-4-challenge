@@ -1,0 +1,35 @@
+body {
+    background-color: lightgray;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+    background: white;
+}
+
+nav button {
+    color: purple;
+    border: none;
+    background-color: transparent;
+}
+
+main {
+    margin: 10vh;
+    text-align: center;
+    background-color: white;
+    height: 60vh;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+button {
+    background-color: purple;
+    padding: 5px;
+    color: white;
+    border-radius: 8px;
+    margin: 5px;
+}
